@@ -34,6 +34,10 @@ Bundle ID: `com.mohitpendse.asm`
    - `GEMINI_API_KEY` = your key
    - Optional: `GEMINI_MODEL` (default `gemini-3.8-flash`)
 4. Build and run on an **iPad** (landscape).
+5. Login credencial: test@gmail.com
+6. 6-digit code:123456
+
+Demo Video: https://drive.google.com/file/d/1wEXLaA5NkTKah6m_1WF_qbkzuOdgIVQP/view?usp=drive_link
 
 Do not commit API keys. Keep secrets in the scheme, `Secrets.xcconfig`, or `.env` (gitignored).
 
